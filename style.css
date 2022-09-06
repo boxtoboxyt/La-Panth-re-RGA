@@ -362,6 +362,11 @@ a:hover {
     z-index: 2;
 }
 
+.citation span {
+    font-weight: bold;
+    font-style: italic;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
